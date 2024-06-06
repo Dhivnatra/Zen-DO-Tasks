@@ -1,0 +1,28 @@
+_____________________________________________
+Syntax for for loop:
+
+for i in {..}
+do
+   #commands
+done
+
+_____________________________________________
+
+Syntax for nested for loop:
+
+for i in {..}
+do 
+  for j in {..}
+  do
+    #commands
+  done
+done
+_____________________________________________
+
+Syntax for while loop:
+
+while [condition]
+do
+  #commands
+done  
+
